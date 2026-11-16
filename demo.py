@@ -5,3 +5,4 @@ print(age)
 a = b = c = 40
 print(a,id(b),id(c))
 print("Hello World")
+print("hihi")
